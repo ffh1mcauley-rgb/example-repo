@@ -2,6 +2,9 @@
 
 # Inventory Database
 
+Note : To use the files -  place them in the directory that your IDE terminal is set to or change the
+terminal to their location. Then run the python file inside of your IDE.
+
 This is python program plus a .txt file that operates as a database for an inventory of trainers.
 The main chunk of the program is the python file inventory.py which acts as the database control menu.
 It works primarily by creating Shoe objects which are stored to a list before being manipulated as per
